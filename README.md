@@ -8,3 +8,8 @@ Product developed using completely open source technologies. User level based ac
 
 cQube analytics tool which can ingest data, process and clean up data and automatically create actionable insights for the education board
 
+To know more visit https://cqube.sunbird.org 
+
+Source code is available at 
+https://github.com/project-sunbird/cQube_Base 
+https://github.com/project-sunbird/cQube_Workflow 
